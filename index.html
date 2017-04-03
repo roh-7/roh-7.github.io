@@ -74,17 +74,15 @@
     </div>
   </footer>
 	<!-- Scripts -->
+  <script src="static/js/jquery.min.js"> </script>
 	<script src="static/js/init.js"> </script>
 	<script src="static/js/materialize.min.js"> </script>
   <script src="static/js/typed.js"> </script>
-  <!-- Typing script -->
+  <!-- Nav bar script -->
   <script>
-  document.addEventListener("DOMContentLoaded", function(){
-    Typed.new(".element", {
-      strings: ["First sentence.", "Second sentence."],
-      typeSpeed: 0
-    });
-  });
+$( document ).ready(function(){
+   $(".button-collapse").sideNav();
+});
 </script>
 </body>
 </html>
