@@ -48,7 +48,8 @@
 			<div class="card white" style="margin-top: 25%; margin-bottom: 25%;">
 				<div class="card-content nerdyBlack-text">
 					<span class="card-title"> Projects</span>
-					<p> All of my projects can be seen on my github profile. These are some of the cool ones.<br> P.S Some are private</p>
+					<p> All of my projects can be seen on my github profile. These are some of the cool ones.<br> P.S Some are private</p><br>
+          <h4 class="element"> </h4>
 				</div>
 				<div class="card-action">
 					<a href="http://github.com/roh-7/Sounds" target="_blank" class="light_blue rohit" style="text-transform: none;">
@@ -86,6 +87,7 @@
   <!-- footer ends -->
   <!-- Scripts -->
   <script src="static/js/jquery.min.js"> </script>
+  <script src="static/js/typed.js"> </script>
   <script src="static/js/init.js"> </script>
   <script src="static/js/materialize.min.js"> </script>
   <!-- Nav bar script -->
@@ -94,6 +96,15 @@ $( document ).ready(function(){
    $(".button-collapse").sideNav();
 });
 </script>
+<!-- Typing script -->
+   <script>
+   document.addEventListener("DOMContentLoaded", function(){
+     Typed.new(".element", {
+       strings: ["First sentence.", "Second sentence."],
+       typeSpeed: 0
+     });
+   });
+ </script>
 </body>
 <!-- body ends -->
 </html>

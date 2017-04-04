@@ -49,7 +49,7 @@
       <div class="card white" style="margin-top: 25%; margin-bottom: 25%;">
         <div class="card-content nerdyBlack-text">
           <span class="card-title"><i class="fa fa-info-circle"></i> About</span>
-          <p>An App developer. Fond of music. Competitive Programming. Excited to explore all arenas</p>
+          <h4>I am <h4 class="element"></h4></h4>
         </div>
       </div>
     </div>
@@ -72,6 +72,7 @@
   <!-- footer ends -->
   <!-- Scripts -->
   <script src="static/js/jquery.min.js"> </script>
+  <script src="static/js/typed.js"> </script>
   <script src="static/js/init.js"> </script>
   <script src="static/js/materialize.min.js"> </script>
   <!-- Nav bar script -->
@@ -80,6 +81,15 @@ $( document ).ready(function(){
    $(".button-collapse").sideNav();
 });
 </script>
+<!-- Typing script -->
+   <script>
+   document.addEventListener("DOMContentLoaded", function(){
+     Typed.new(".element", {
+       strings: ["an App developer.","fond of music.","a Competitive programmer.","excited to explore all arenas."],
+       typeSpeed: 0.2
+     });
+   });
+ </script>
 </body>
 <!-- body ends -->
 </html>
