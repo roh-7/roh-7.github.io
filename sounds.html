@@ -3,7 +3,7 @@
 <head>
   <!-- Meta Tags -->
   <meta name="author" content="roh-7">
-  <meta name="theme-color" content="#e81d27">
+  <meta name="theme-color" content="#009688">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
 	 <!-- Title -->
 	<title>roh-7</title>
   <!-- Logo -->
-  <link rel="shortcut icon" type="image/x-icon" href="static/assets/logos/index-logo.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="../static/assets/logos/index-logo.png" />
 	<!-- CSS files -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link href="static/css/materialize.css" type="text/css" rel="stylesheet"/>
@@ -22,8 +22,8 @@
   <link href="static/css/font-awesome-min.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
-	<!-- Header -->
-	<nav class="red rohit" role="navigation">
+<!-- Header -->
+  <nav class="red rohit" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">roh-7</a>
       <ul class="right hide-on-med-and-down">
         <li> <a href = "about.html">About </a></li>
@@ -40,57 +40,63 @@
   </nav>
 <br>
 <!-- header ends -->
-<div class="row" style="background-image: url('static/assets/backgrond.jpg');background-repeat: no-repeat;background-size: cover;">
-    <div class="col s10 offset-s1 m4 l4 offset-m6 offset-l6">
-      <div class="card white" style="margin-top: 25%; margin-bottom: 25%;">
-        <div class="card-content light_blue rohit">
-          Take a look around and find out more about me.<br> Will be updated soon.
-        </div>        
+<!-- Card -->
+  <div class="row">
+    <div class="col s10 offset-s1 m4 l4 offset-l2 white-text">
+      <div class="card" style="background-color:#006699;margin-top: 10% margin-bottom: 10%">
+        <div class="card-content center">
+          <span class="card-title"> First card </span>
+          <br> <center><img class="materialboxed" width="220" src="../static/assets/hi.png"></center><br>
+          <a href = "index.html" class="white-text"> READ HERE  </a>
+        </div>
       </div>
+    </div>
+</div>
+<!-- Footer -->
+<footer class="black rohit">
+<div class="container">
+  <div class="row">
+    <div class="col l6 s12">
+      <h5 class="white-text">Rohit Ramaswamy</h5>
+      <p class="grey-text text-lighten-4">I am currently doing my Engineering. Eager to learn.<br><br> Android Studio | Xcode | Sublime Text<br><br> C | JAVA | SWIFT | HTML | CSS</p>
+    </div>
+    <div class="col l3 s12">
+      <h5 class="white-text">Connect</h5>
+      <ul>
+        <li><a class="white-text" href="http://www.codechef.com/users/roh_7">Codechef </a></li>
+        <li><a class="white-text" href="https://facebook.com/rohit.ramaswamy.5">Facebook</a></li>
+        <li><a class="white-text" href="static/assets/snapcode.png">Snapchat </a> </li>
+      </ul>
     </div>
   </div>
-  	<!-- Footer -->
-  	<footer class="black rohit">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Rohit Ramaswamy</h5>
-          <p class="grey-text text-lighten-4">I am currently doing my Engineering. Eager to learn.<br><br> Android Studio | Xcode | Sublime Text<br><br> C | JAVA | SWIFT | HTML | CSS</p>
-        </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
-          <ul>
-            <li><a class="white-text" href="https://facebook.com/rohit.ramaswamy.5">Facebook</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer-copyright">
-      <div class="container">
-      <a class="white-text">Made by Rohit Ramaswamy using Materalize CSS</a>
-      </div>
-    </div>
-  </footer>
-  <!-- footer ends -->
-	<!-- Scripts -->
-  <script src="static/js/materialize.js"> </script>
-  <script src="static/js/jquery.min.js"> </script>
-	<script src="static/js/init.js"> </script>
-	<script src="static/js/materialize.min.js"> </script>
-  <!-- Nav bar script -->
-  <script>
-$( document ).ready(function(){
-   $(".button-collapse").sideNav();
+</div>
+<div class="footer-copyright">
+  <div class="container">
+  <a class="white-text">Made by Rohit Ramaswamy using Materalize CSS</a>
+  </div>
+</div>
+</footer>
+<!-- footer ends -->
+<!-- Scripts -->
+<script src="static/js/materialize.js"> </script>
+<script src="static/js/jquery.min.js"> </script>
+<script src="static/js/init.js"> </script>
+<script src="static/js/materialize.min.js"> </script>
+<!-- Typing script -->
+<script>
+document.addEventListener("DOMContentLoaded", function(){
+Typed.new(".element", {
+  strings: ["First sentence.", "Second sentence."],
+  typeSpeed: 0
+});
 });
 </script>
 </body>
 </html>
 <!--
- 
 ▒█░░░ ▀█▀ ▒█▄░▒█ ▒█░▄▀ ▀█▀ ▒█▄░▒█ 　 ▒█▀▀█ ░█▀▀█ ▒█▀▀█ ▒█░▄▀ 
 ▒█░░░ ▒█░ ▒█▒█▒█ ▒█▀▄░ ▒█░ ▒█▒█▒█ 　 ▒█▄▄█ ▒█▄▄█ ▒█▄▄▀ ▒█▀▄░ 
 ▒█▄▄█ ▄█▄ ▒█░░▀█ ▒█░▒█ ▄█▄ ▒█░░▀█ 　 ▒█░░░ ▒█░▒█ ▒█░▒█ ▒█░▒█﻿ 
-
 -->
 
 
