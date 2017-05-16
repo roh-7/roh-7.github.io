@@ -46,10 +46,16 @@
 <div class="container">
 
 <div class="row">
-    <div class="col l6 s12">
-      <img height="500" width="260" src="static/assets/vLibLoading.png">
+  <!-- s is for mobile, m is for tab, l is for desktop !-->
+  <!-- offset leaves gap from left that much div size !-->
+  <!-- its like having empty division of same size ie l2 !-->
+  <!-- wonder how i calculate this? !-->
+  <!-- each grid is max of 12 columns so  -->
+  <!-- machaya. Thanks main sab main kar deta hu yeh abye.ah yeah -->
+    <div class="col l4 m6 s6 offset-l2"> <!-- here l6 is alreay given ie 4 + 2in offset !-->
+      <img height="350" src="static/assets/vLibLoading.png">
     </div>
-    <div class="col l6 s12"><br><br><br>
+    <div class="col l4 m6 s6"><br><br><br><!--lesser also works  !-->
       <h5>Latest data</h5>
       <p>The app loads new data every time so that you get the latest data anytime you visit. </p>
     </div>
@@ -58,21 +64,21 @@
 
   <div class="row" align="right">
     
-    <div class="col l6 s12"><br><br><br>
+    <div class="col l4 m6 s6"><br><br><br>
       <h5>Books</h5>
       <p>The user gets list of books that are available currently at the library directly in his/her phone in real time.</p>
     </div>
-    <div class="col l6 s12">
-      <img height="500" width="260" src="static/assets/phone/vLibBooks.png">
+    <div class="col l4 m6 s6 offset-l2">
+      <img height="350" src="static/assets/phone/vLibBooks.png">
     </div>
   </div>
 
 
 <div class="row">
-    <div class="col l6 s12">
-      <img height="500" width="260" src="static/assets/phone/vLibIssues.png">
+    <div class="col l4 m6 s6 offset-l2">
+      <img height="350" src="static/assets/phone/vLibIssues.png">
     </div>
-    <div class="col l6 s12"><br><br><br>
+    <div class="col l4 m6 s6"><br><br><br>
       <h5>Issues</h5>
       <p>The user gets list of books he/she has issued till date. The list is color coded for convenience. Green means returned and red means yet to return.</p>
     </div>
@@ -81,12 +87,12 @@
 
 <div class="row" align="right">
     
-    <div class="col l6 s12"><br><br><br>
+    <div class="col l4 m6 s6"><br><br><br>
       <h5>Updates</h5>
       <p>The user gets important updates regarding his curriculum from the librarian in the app itself. This remains in the app but the app checks for new updates each time.</p>
     </div>
-    <div class="col l6 s12">
-      <img height="500" width="260" src="static/assets/phone/vLibUpdates.png">
+    <div class="col l4 m6 s6 offset-l2">
+      <img height="350" src="static/assets/phone/vLibUpdates.png">
     </div>
   </div>
 
@@ -95,10 +101,10 @@
 
 
 <div class="row">
-    <div class="col l6 s12">
-      <img height="500" width="260" src="static/assets/phone/vLibNotif.png">
+    <div class="col l4 m6 s6 offset-l2">
+      <img height="350" src="static/assets/phone/vLibNotif.png">
     </div>
-    <div class="col l6 s12"><br><br><br>
+    <div class="col l4 m6 s6"><br><br><br>
       <h5>Notification</h5>
       <p>The user gets a notification when there is a new update issued by the librarian.</p>
     </div>
