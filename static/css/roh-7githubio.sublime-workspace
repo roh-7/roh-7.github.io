@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"pos1"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"scr",
+				"SCRIPT	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"m",
+				"marks"
+			],
+			[
+				"even",
+				"event_credit"
+			],
+			[
+				"opt",
+				"optString"
+			],
+			[
+				"me",
+				"MessageArray"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"upda",
+				"updated_at"
+			],
+			[
+				"cre",
+				"created"
+			],
+			[
+				"JSON",
+				"JSONArray"
+			],
+			[
+				"nu",
+				"num_array"
+			],
+			[
+				"timepass_",
+				"timepass_db"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"st",
+				"station"
+			],
+			[
+				"file",
+				"file_location"
+			],
+			[
+				"get",
+				"getString"
+			],
+			[
+				"br",
+				"branch"
+			],
+			[
+				"mess",
+				"messageObject"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"over",
+				"overriding"
+			],
+			[
+				"rec",
+				"Rectangle"
+			],
+			[
+				"in",
+				"interestAdd"
+			],
+			[
+				"curr",
+				"current_acc"
+			],
+			[
+				"Curre",
+				"current_acc"
+			],
+			[
+				"ne",
+				"nextFloat"
+			],
+			[
+				"next",
+				"nextFloat"
+			],
+			[
+				"acc",
+				"acc_no"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"nex",
+				"nextInt"
+			],
+			[
+				"eleme",
+				"elementAt"
+			],
+			[
+				"cou",
+				"countSpace"
+			],
+			[
+				"co",
+				"countLower"
+			],
+			[
+				"count",
+				"countDigits"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"a",
+				"arraycopy"
+			],
+			[
+				"r",
+				"roomNo"
+			],
+			[
+				"dele",
+				"deleteTree"
+			],
+			[
+				"del",
+				"deleteTree"
+			],
+			[
+				"left",
+				"leftHeight"
+			],
+			[
+				"right",
+				"rightHeight"
+			],
+			[
+				"tot",
+				"totalInternalNodes"
+			],
+			[
+				"to",
+				"totalInternalNodes"
+			],
+			[
+				"ex",
+				"totalExternalNodes"
+			],
+			[
+				"nod",
+				"totalInternalNodes"
+			],
+			[
+				"tree",
+				"tree"
+			],
+			[
+				"sma",
+				"findSmallest"
+			],
+			[
+				"fin",
+				"findLargest"
+			],
+			[
+				"node",
+				"nodeptr"
+			],
+			[
+				"t",
+				"totalNodes"
+			],
+			[
+				"po",
+				"postorder"
+			],
+			[
+				"insert",
+				"insertElement"
+			],
+			[
+				"Del",
+				"deleteElement"
+			],
+			[
+				"dec",
+				"decNum"
+			],
+			[
+				"ro",
+				"rowSum"
+			],
+			[
+				"dle",
+				"delete_node"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"dta",
+				"data"
+			],
+			[
+				"so",
+				"sort_list"
+			],
+			[
+				"de",
+				"delete_list"
+			],
+			[
+				"delete",
+				"delete_after"
+			],
+			[
+				"inse",
+				"insert_before"
+			],
+			[
+				"ins",
+				"insert_beg"
+			],
+			[
+				"De",
+				"delete_end"
+			],
+			[
+				"tes",
+				"testcases"
+			],
+			[
+				"is",
+				"isVowel"
+			],
+			[
+				"hmm",
+				"hmmm	hmmm"
+			],
+			[
+				"mai",
+				"main_s"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"j",
+				"j.u	java.util."
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"for",
+				"for	For Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: hl"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/vlibrary.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/projects.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/index.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/card.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/about.html",
+		"/Users/rohitramaswamy/Downloads/Google Pixel/Google Pixel.sketch",
+		"/Users/rohitramaswamy/Library/Application Support/Sublime Text 2/Packages/User/filec.sublime-snippet",
+		"/Applications/MAMP/htdocs/gst-portal/public/.htaccess",
+		"/Users/rohitramaswamy/Library/Application Support/Sublime Text 2/Packages/User/filej.sublime-snippet",
+		"/Users/rohitramaswamy/Desktop/try.java",
+		"/Users/rohitramaswamy/Desktop/pythonTry/ap.py",
+		"/Users/rohitramaswamy/Desktop/pythonTry/1000.in",
+		"/Users/rohitramaswamy/Desktop/pythonTry/hello.py",
+		"/Users/rohitramaswamy/Desktop/output.txt",
+		"/Users/rohitramaswamy/Desktop/1000.txt",
+		"/Users/rohitramaswamy/AndroidStudioProjects/shimmer-try/README.md",
+		"/Users/rohitramaswamy/Desktop/trytry.cpp",
+		"/Users/rohitramaswamy/Desktop/try.svg",
+		"/Users/rohitramaswamy/.bash_profile",
+		"/Users/rohitramaswamy/Downloads/composer.phar",
+		"/Users/rohitramaswamy/Downloads/DB.sql",
+		"/Users/rohitramaswamy/Downloads/Untitled.svg",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/third.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/second.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/first.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/abc3.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/abc2.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/abab.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/hello.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/try.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/template.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/haha.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/abcb.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/abc.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#01/abc1.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/third.cpp",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/abcsecond.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/second.cpp",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/abcfirst.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/first.cpp",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/abcthird.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/buggy.C",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/abab.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/500.in",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/first.cpp",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#03/200.in",
+		"/Users/rohitramaswamy/Desktop/output.py",
+		"/Users/rohitramaswamy/Desktop/tp.py",
+		"/Users/rohitramaswamy/Desktop/enki.html",
+		"/Users/rohitramaswamy/Desktop/bruh.html",
+		"/Users/rohitramaswamy/Desktop/materialize.css",
+		"/Users/rohitramaswamy/Desktop/Portal_DB_Backup.sql",
+		"/Users/rohitramaswamy/Desktop/dsktop/Dl/usr/local/lib/libstdc++.a-gdb.py",
+		"/Applications/MAMP/htdocs/gst-portal/.env",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/static/fonts/fontawesome-webfont.svg",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/static/assets/logos/projects-logo.svg",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/third.cpp",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/abcfirst.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/100.in",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/abc1.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/200.in",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/abcsecond.out",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/second.cpp",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/gstarena/#02/500.in",
+		"/Users/rohitramaswamy/Desktop/dsktop/c",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/abc.c",
+		"/Users/rohitramaswamy/AndroidStudioProjects/gst-companion/app/src/main/java/in/ac/siesgst/companion/activities/LoginActivity.java",
+		"/Users/rohitramaswamy/Desktop/dsktop/Snippets/VolleySimple.java",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/cp/bits:stdc++.h",
+		"/Users/rohitramaswamy/Desktop/1.in",
+		"/Users/rohitramaswamy/Desktop/abab.out",
+		"/Users/rohitramaswamy/Desktop/100.in",
+		"/Users/rohitramaswamy/Desktop/first.c",
+		"/Users/rohitramaswamy/Desktop/try.c",
+		"/Users/rohitramaswamy/Desktop/abc1.out",
+		"/Users/rohitramaswamy/Desktop/third.c",
+		"/Users/rohitramaswamy/Desktop/second.c",
+		"/Users/rohitramaswamy/AndroidStudioProjects/VirtualLibrarian-app/app/build.gradle",
+		"/Users/rohitramaswamy/Desktop/abc.out",
+		"/Users/rohitramaswamy/Desktop/hello.c",
+		"/Users/rohitramaswamy/Desktop/template.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/repos/shimmer-android/local.properties",
+		"/Users/rohitramaswamy/Desktop/selection_sort_rec.c",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/repos/Test/rohit/TrySearch/local.properties",
+		"/Users/rohitramaswamy/Desktop/OkHttpSnippet.pdf",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/.gitignore",
+		"/Applications/MAMP/db/mysql56/vLibrary/books.frm",
+		"/Users/rohitramaswamy/Desktop/dsktop/AccelerometerDBReadings.sql",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/sounds.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/c:c++/codechef/Max_Count.c",
+		"/Users/rohitramaswamy/Desktop/rebound points",
+		"/Users/rohitramaswamy/AndroidStudioProjects/Rebound Implement/app/src/main/java/com/example/rebound/MainActivity.java",
+		"/Users/rohitramaswamy/AndroidStudioProjects/Rebound Implement/app/src/main/java/com/example/rebound/ImageAsync.java",
+		"/Users/rohitramaswamy/Desktop/thank you",
+		"/Users/rohitramaswamy/Desktop/fbdevc-Rebound notes",
+		"/Users/rohitramaswamy/AndroidStudioProjects/Rebound Implement/README.md",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/repos/roh-7.github.io/index.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/Sounds/sounds.html",
+		"/Users/rohitramaswamy/AndroidStudioProjects/Rebound Implement/app/src/main/pwd.txt",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/repos/roh-7.github.io/cardSnippet.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/repos/roh-7.github.io/static/css/materialize.css",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/repos/roh-7.github.io/projects.html",
+		"/Users/rohitramaswamy/Desktop/dsktop/git/rep/roh-7.github.io/static/assets/logos/projects-logo.jpg",
+		"/Users/rohitramaswamy/Desktop/corporate security/launch_docker_priv.sh",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/index.html",
+		"/Applications/Utilities/Adobe Creative Cloud/FontsPanel/resource/ui/resources/css/fonts.css",
+		"/Users/rohitramaswamy/Desktop/India Bistro, Chembur, Mumbai - Zomato.html",
+		"/Users/rohitramaswamy/Desktop/India Bistro, Chembur, Mumbai - Zomato_files/h-0b73011456382f3d2432a9aecfdef498",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/static/css/materialize.css",
+		"/Users/rohitramaswamy/ClionProjects/TimeC/CMakeLists.txt",
+		"/Users/rohitramaswamy/Documents/desk/desktop/c:c++/dev c/try1.c",
+		"/Users/rohitramaswamy/Documents/desk/desktop/c:c++/dev c/cp/The_Lead_Game.cpp",
+		"/Users/rohitramaswamy/Documents/desk/desktop/c:c++/dev c/burh.cpp",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/index.php",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/css/materialize.css",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/css/style.css",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/css/materialize.min.css",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/instagram.html",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/twitter.html",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/roh-7.github.io/chane.html",
+		"/Users/rohitramaswamy/Library/Application Support/Sublime Text 2/Packages/User/htmlpg.sublime-snippet",
+		"/Users/rohitramaswamy/Desktop/SampleRailResponse.json",
+		"/Users/rohitramaswamy/Desktop/rail/list.php",
+		"/Users/rohitramaswamy/Desktop/rail/require.php",
+		"/Applications/MAMP/TML/list.php",
+		"/Users/rohitramaswamy/Desktop/require.php",
+		"/Volumes/ROHIT 32/WPSystem/SharedData/ThumbnailCache/thumbcache_256.db",
+		"/Users/rohitramaswamy/Documents/desk/desktop/git/repos/Test/drbanner/hello.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"share",
+			"500",
+			"waves-light",
+			"waves",
+			"id/",
+			"s10",
+			"card",
+			"around",
+			"typed",
+			"element",
+			"blue-grey",
+			"fa",
+			";",
+			"13",
+			"copyright",
+			"rohit",
+			"green",
+			"white-te",
+			"fa",
+			"footer",
+			"rohit",
+			"grey",
+			"header",
+			"footer",
+			"\"/>\n",
+			"event_credit",
+			"event_name",
+			"event_id",
+			"user_id",
+			"\");\n",
+			"nihal",
+			"sheetal",
+			"15@siesgst.ac.in",
+			"\");\n",
+			"error_reporting",
+			"error_reporing",
+			"error_reporting",
+			"\"",
+			"name=\"",
+			"\"",
+			"ll",
+			"newnode",
+			"Theme",
+			"--",
+			"int",
+			"\"",
+			"'",
+			"int\n",
+			"];\n",
+			"2*n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n",
+			"long long",
+			"long",
+			" ",
+			"\"",
+			"long long",
+			"n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"roh-7.github.io/card.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
