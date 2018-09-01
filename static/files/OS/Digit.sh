@@ -10,10 +10,10 @@ while (( $num >0 ))
  done
 echo "Sum of digits of $number is $sum"
 
-Output:
-anushka@anushka-HP-Pavilion-Notebook:~$ gedit Digit.sh
-anushka@anushka-HP-Pavilion-Notebook:~$ ./Digit.sh
-Enter the number :
-214
-Sum of digits of 214 is 7
+# Output:
+# anushka@anushka-HP-Pavilion-Notebook:~$ gedit Digit.sh
+# anushka@anushka-HP-Pavilion-Notebook:~$ ./Digit.sh
+# Enter the number :
+# 214
+# Sum of digits of 214 is 7
 

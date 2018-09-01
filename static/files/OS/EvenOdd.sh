@@ -9,11 +9,11 @@ else
 fi
 
 
-Output :
-anushka@anushka-HP-Pavilion-Notebook:~$ gedit EvenOdd.sh
-anushka@anushka-HP-Pavilion-Notebook:~$ chmod 777 EvenOdd.sh
-anushka@anushka-HP-Pavilion-Notebook:~$ ./EvenOdd.sh
-Enter the number :
-5
-5 is a odd number.
+# Output :
+# anushka@anushka-HP-Pavilion-Notebook:~$ gedit EvenOdd.sh
+# anushka@anushka-HP-Pavilion-Notebook:~$ chmod 777 EvenOdd.sh
+# anushka@anushka-HP-Pavilion-Notebook:~$ ./EvenOdd.sh
+# Enter the number :
+# 5
+# 5 is a odd number.
 

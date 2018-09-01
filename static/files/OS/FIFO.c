@@ -1,42 +1,47 @@
-#include<stdio.h>
-#include<ncurses.h>
+#include <stdio.h>
+#include <ncurses.h>
 
 void main()
-{int n[50],pf[10],i,j,p=0,hit=0,find,a,b;
- printf("\nEnter total no. of elements: ");
- scanf("%d",&a);
- printf("Enter Page Frame size: ");
- scanf("%d",&b);
- printf("\nEnter all elements: ");
- for(i=0;i<a;i++)
-  scanf("%d",&n[i]);
+{
+	int n[50],pf[10],i,j,p=0,hit=0,find,a,b;
+	printf("\nEnter total no. of elements: ");
+	scanf("%d",&a);
+	printf("Enter Page Frame size: ");
+	scanf("%d",&b);
+	printf("\nEnter all elements: ");
+	for(i=0;i<a;i++)
+		scanf("%d",&n[i]);
 
- for(i=0;i<b;i++)
-  pf[i]=-1;
+	for(i=0;i<b;i++)
+		pf[i]=-1;
 
- for(i=0;i<a;i++)
- {find=0;
-  for(j=0;j<b;j++)
-  {if(n[i]==pf[j])
-   {printf("Hit at:\n");
-    hit++;
-    break;
-   }
-   else
-    find++;
-  }
-  if(find==b)
-  {pf[p]=n[i];
-   p++;
-   p=p%b;
-  }
-  for(j=0;j<b;j++)
-   printf("%d\t",pf[j]);
+	for(i=0;i<a;i++)
+	{
+		find=0;
+		for(j=0;j<b;j++)
+		{
+			if(n[i]==pf[j])
+			{
+				printf("Hit at:\n");
+				hit++;
+				break;
+			}
+			else
+				find++;
+		}
+		if(find==b)
+		{
+			pf[p]=n[i];
+			p++;
+			p=p%b;
+		}
+		for(j=0;j<b;j++)
+			printf("%d\t",pf[j]);
 
-  printf("\n");
- }
- printf("\nHits: %d",hit);
- getch();
+		printf("\n");
+	}
+	printf("\nHits: %d",hit);
+	getch();
 }
 /*OUTPUT
 Enter total no. of elements: 10
